@@ -50,7 +50,7 @@
 // NODE MCU ESP-12E built in LED's on GPIO 2 and 16
 #define SERIAL_BAUDRATE                 115200
 #define LED                             2
-#define BUTTON                          
+#define BUTTON                          6
 #define SRV_SHOULDER                    4
 #define SRV_ELBOW                       5
 #define SRV_VALVE                       14
